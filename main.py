@@ -3,6 +3,7 @@ import sys, random
 assert sys.version_info >= (3,7), "This script requires at least Python 3.7"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 quit = False
 range = 100
@@ -33,5 +34,7 @@ while not quit:
         quit = True
 
 print("\n\nThanks for playing! See you later!")      
+=======
+>>>>>>> d0433f7f29310914b40a5cdd2be0d6527a4a8eeb
 =======
 >>>>>>> d0433f7f29310914b40a5cdd2be0d6527a4a8eeb
